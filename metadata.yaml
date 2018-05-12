@@ -1,4 +1,5 @@
 _repo: Punch-and-Judy-The-tragical-acts-or-comical-tragedies-of-Punch-and-Judy_48171
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Cruikshank, George
@@ -8,12 +9,17 @@ contributor:
     gutenberg_agent_id: '9068'
     url: http://www.gutenberg.org/2009/agents/9068
     wikipedia: http://en.wikipedia.org/wiki/George_Cruikshank
+covers:
+- cover_type: archival
+  image_path: 48171-h/images/cover.jpg
 creator:
   author:
     agent_name: Judd, Willliam J.
     gutenberg_agent_id: '44658'
     url: http://www.gutenberg.org/2009/agents/44658
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48171#Punch-and-Judy-The-tragical-acts-or-comical-tragedies-of-Punch-and-Judy
 gutenberg_issued: '2015-02-05'
 gutenberg_type: Text
 identifiers:
